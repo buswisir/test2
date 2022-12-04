@@ -25,7 +25,7 @@
 
 * * *
 
-# 1.八合一共存脚本+伪装站点
+# 1.多合一共存
 
 - [Cloudflare入门教程](https://github.com/buswisir/v2ray-agent/blob/master/documents/cloudflare_init.md)
 
