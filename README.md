@@ -25,7 +25,7 @@
 
 * * *
 
-# 1.多合一共存
+# 1.All in one coexistence
 
 - [Cloudflare入门教程](https://github.com/buswisir/test2/blob/master/documents/cloudflare_init.md)
 
