@@ -115,7 +115,7 @@ wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/buswi
 
 # 示例图
 
-<img src="https://raw.githubusercontent.com/buswisir/test2/master/fodder/install/install.jpg" width=700>
+<img src="https://raw.githubusercontent.com/buswisir/test/master/fodder/install/install.jpg" width=700>
 
 # 许可证
 
